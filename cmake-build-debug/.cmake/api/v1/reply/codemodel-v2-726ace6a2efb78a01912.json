@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MonkGame",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MonkGame::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MonkGame-Debug-96ba41dcbef58e059c6b.json",
+					"name" : "MonkGame",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/tyresestrafford/Library/CloudStorage/OneDrive-UniversityofHuddersfield/Year2/Object-Oriented Systems Development/c+=/MonkGame/cmake-build-debug",
+		"source" : "/Users/tyresestrafford/Library/CloudStorage/OneDrive-UniversityofHuddersfield/Year2/Object-Oriented Systems Development/c+=/MonkGame"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
